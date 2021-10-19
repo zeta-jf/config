@@ -1,0 +1,11 @@
+neovim
+maven
+curl
+git
+fzf
+tmux
+alacritty
+nodejs
+default-jdk
+zsh
+fonts-hack-ttf
